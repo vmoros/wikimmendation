@@ -1,2 +1,0 @@
-# wikimmendation
-Wikipedia recommendation engine
