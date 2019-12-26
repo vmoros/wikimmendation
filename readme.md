@@ -1,8 +1,7 @@
+# Pandorka: Wikimmendation Engine
+
 ### Description
 This was a group project for a computer science class at UChicago. We made a recommendation engine for Wikipedia. Unfortunately, we only ran it locally and did not deploy it to the web.
-
-Pandorka: Wikimmendation Engine
-  Wikipedia Analysis and Recommendation Engine
 
 Initial Note:
   Our analysis involved heavy computation and data processing with large data sets, so we
